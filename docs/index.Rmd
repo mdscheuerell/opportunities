@@ -1,0 +1,18 @@
+---
+output:
+  html_document:
+    theme: journal
+---
+
+# Postdoctoral researcher in quantitative ecology
+
+## Washington State University
+
+***
+
+We are seeking a postdoctoral associate for collaboration in freshwater research, with a general emphasis on highly quantitative approaches to understanding ecology and system stability, but with specific topics to be defined primarily by the successful candidate. Special opportunities exist for the postdoc to engage in interdisciplinary research on stability and behavior of food-energy-water systems, as part of a large collaboration. Additional areas of current interest include time series analysis of multivariate long-term data, under-ice ecology, monitoring and evaluation of stream restoration at regional scales, and global patterns in freshwater use and status. However, we are open to considering many areas of inquiry for the postdoctoral researcher’s work.
+
+A Ph.D. (A.B.D. candidates will be considered) and a record of peer-reviewed publication in a relevant science field are required. Strong commitment to collaborative work is necessary, and experience working in large research collaborations is desired. Experience with programming in __R__ is ideal, but those experienced in other programming environments should feel free to contact us to determine their fit to this position.
+
+The postdoc will be based at Washington State University working directly with Dr. Stephanie Hampton and Dr. Steve Katz.  While there is flexibility in start date, we anticipate that the postdoc will be in residence at WSU by September 2018, with the yearly appointment renewable up to two years. Please direct inquiries to s.hampton@wsu.edu and steve.katz@wsu.edu with subject "Ecology Postdoc". A complete application will include a Statement of Interest (1-page maximum) that outlines some of the areas of potential research, and a C.V. with the names and contact information for 3 professional references. For full consideration, please apply by 27 July 2018, but applications will be reviewed until the position is filled.
+
